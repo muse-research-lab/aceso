@@ -1,0 +1,9 @@
+cmdstanpy==1.3.0
+joblib==1.6.0
+matplotlib==3.11.2
+neuralforecast==3.1.2
+pandas==2.3.3
+prophet==1.2.1
+pytorch-lightning==2.6.6
+scikit-learn==1.8.0
+seaborn==0.13.2
