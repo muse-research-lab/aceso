@@ -42,9 +42,9 @@ This artifact is submitted for evaluation under the following criteria:
 
 A permanent archival copy of this artifact is available at:
 
-**DOI:** <TODO ZENODO DOI>
+**DOI:** [https://doi.org/10.5281/zenodo.22937859]
 
-**Artifact URL:** <TODO PERMANENT ARTIFACT URL>
+**Artifact URL:** [https://zenodo.org/records/22937859]
 
 
 ### Relationship between the artifact and the paper
@@ -171,7 +171,7 @@ The following instructions provide the shortest path for an evaluator to verify 
 ## 1. Clone the repository
 
 ```bash
-git clone <REPOSITORY URL> TODO
+git clone https://github.com/muse-research-lab/aceso
 cd Aceso
 ```
 
@@ -205,6 +205,8 @@ Then run the plotter to create all figures and compare them with the paper resul
 cd "$(git rev-parse --show-toplevel)"
 python3 plotter.py
 ```
+
+This plotter assumes that all the experiments are completed and all the results files exist and have valid entries. If you want to create any plots separately, or begin generating plots before all the experiments complete, you are welcome to use the jupiter notebook plotter.ipynb, found in the same directory, and run the cells you are interested in.
 
 The generated figures will be in the ~/plots folder. By comparing those with the paper Figures as described in [Relationship between the artifact and the paper](#relationship-between-the-artifact-and-the-paper), you can complete the evaluation of this artifact.
 
@@ -479,7 +481,7 @@ The work by the authors at the IMDEA Software Institute was partially funded by 
 
 * **Paper:** TODO
 * **DOI:** TODO
-* **Artifact:** [todo zenodo link] 
+* **Artifact:** [https://doi.org/10.5281/zenodo.22937859] 
 * **Repository:** [https://github.com/muse-research-lab/aceso]
 * **Middleware 2026:** [https://middleware-conf.github.io/2026/]
 
