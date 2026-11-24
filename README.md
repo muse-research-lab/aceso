@@ -1,6 +1,8 @@
 # Aceso: Latency-Aware Geo-Distribution of Microservices for Cost-Effective Carbon Reduction
 
-<img width="500" alt="aceso11" src="https://github.com/user-attachments/assets/757cf064-8e81-498b-b550-49ae0a150ce2" />
+<p align="center">
+  <img width="400" alt="aceso11" src="https://github.com/user-attachments/assets/757cf064-8e81-498b-b550-49ae0a150ce2" />
+</p>
 
 
 **Artifact repository for the paper:**
